@@ -91,22 +91,30 @@ const Navbar = () => {
              <ul className="flex flex-wrap gap-5">
           <li className="cursor-pointer text-x1 opacity-70
           transition-all duration-300 hover:text-red-500 hover:opacity-100">
+            <a href="https://www.youtube.com/channel/UCf60lpgJL2atHOTKTczp3oQ" target="_blank" rel="noopener noreferrer">
               <BsYoutube/>
+              </a>
           </li>
 
           <li className="cursor-pointer text-x1 opacity-70
           transition-all duration-300 hover:text-blue-500 hover:opacity-100">
+            <a href="https://www.linkedin.com/in/udaydhengre/" target="_blank" rel="noopener noreferrer">
               <BsLinkedin/>
+              </a>
           </li>
 
           <li className="cursor-pointer text-x1 opacity-70
           transition-all duration-300 hover:text-sky-500 hover:opacity-100">
+            <a href="https://x.com/udhengre96654?s=11" target="_blank" rel="noopener noreferrer">
               <BsTwitterX/>
+              </a>
           </li>
 
           <li className="cursor-pointer text-x1 opacity-70
           transition-all duration-300 hover:text-orange-500 hover:opacity-100">
+            <a href="https://github.com/UdaYdhengre" target="_blank" rel="noopener noreferrer">
               <BsGithub />
+              </a>
           </li>
        </ul>
        
